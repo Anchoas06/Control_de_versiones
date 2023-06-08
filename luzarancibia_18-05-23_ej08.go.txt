@@ -1,0 +1,18 @@
+/*
+
+* profesor: Jose Fuentes
+* curso: 4
+* alumno: Luz Arancibia Mallon
+* fecha: 18/05/23
+
+*/
+
+
+package main
+
+import "fmt"
+
+func main() {
+//TODO modificar la cadena de texto
+fmt.Println("Hola, Luz")
+}
